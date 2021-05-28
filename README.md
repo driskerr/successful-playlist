@@ -3,9 +3,9 @@
 What makes a successful playlist?
 
 # Files 
-- code: Spotify Playlists EDA.ipynb
-- final presentation: Spotify - Driscoll.pdf
-- supplement (exploratory factor analysis naming exercise): playlist_factor_loadings.xlsx
+- **code**: Spotify Playlists EDA.ipynb
+- **final presentation**: Spotify - Driscoll.pdf
+- **supplement** (exploratory factor analysis naming exercise): playlist_factor_loadings.xlsx
 
 # Steps
 My game-plan:
