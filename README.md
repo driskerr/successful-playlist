@@ -1,6 +1,4 @@
-# successful-playlist
-using Spotify data to answer: what defines a successful playlist
-
+# Successful Playlist
 # Motivation
 What makes a successful playlist?
 
@@ -14,6 +12,10 @@ I am making this up as I go along. My tentative game-plan is as follows:
 1. Explore dataset - see if I can create broader content categories
 2. Define a criteria for a "successful" playlist - want to get away from broadly popular ranked definitions
 3. Preliminary model predicting a model's "success"
+
+# Significant Dependencies
+- [FactorAnalyzer](https://factor-analyzer.readthedocs.io/en/latest/factor_analyzer.html)
+- [spotipy](https://spotipy.readthedocs.io/en/2.18.0/)
 
 # Contributors
 Me, myself and I.
