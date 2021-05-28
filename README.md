@@ -13,12 +13,13 @@ I am making this up as I go along. My tentative game-plan is as follows:
 2. Define a criteria for a "successful" playlist - want to get away from broadly popular ranked definitions
 3. Preliminary model predicting a model's "success"
 
-# Significant Dependencies
+# Contributors
+Me, myself and I.
+
+### Significant Dependencies
 - [FactorAnalyzer](https://factor-analyzer.readthedocs.io/en/latest/factor_analyzer.html)
 - [spotipy](https://spotipy.readthedocs.io/en/2.18.0/)
 
-# Contributors
-Me, myself and I.
 
 # License
 who is going to see this? just give me credit if you do find it interesting
